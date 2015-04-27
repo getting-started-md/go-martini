@@ -1,0 +1,28 @@
+{
+	"ImportPath": "getting-started.md/hello",
+	"GoVersion": "go1.4.1",
+	"Deps": [
+		{
+			"ImportPath": "github.com/codegangsta/inject",
+			"Comment": "v1.0-rc1-10-g33e0aa1",
+			"Rev": "33e0aa1cb7c019ccc3fbe049a8262a6403d30504"
+		},
+		{
+			"ImportPath": "github.com/eknkc/amber",
+			"Rev": "dade3a75e1ab1cf0c2cafae1397b32a99aaaef4a"
+		},
+		{
+			"ImportPath": "github.com/go-martini/martini",
+			"Comment": "v1.0-124-gd398859",
+			"Rev": "d39885924ac22dcafaa9fd452a3af1261107799d"
+		},
+		{
+			"ImportPath": "github.com/llun/martini-amber",
+			"Rev": "d48a9318bb51cc1a64e9e78d24fc57fdc68ac99b"
+		},
+		{
+			"ImportPath": "github.com/oxtoacart/bpool",
+			"Rev": "754d38fccfc6e52083355014b6abc8d626445dfd"
+		}
+	]
+}
